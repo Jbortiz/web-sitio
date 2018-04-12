@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	font-size: 20px;
+}
+ h1{
+ 	background: orange;
+		margin: 20px 20px;
+		text-align: right;
+		color: blue;
+		padding: 20px; 
+		float: right;
+}
+h2{
+	margin: 20px;
+	font-size: 20px;
+	color: blue; 
+}
+h3{
+	margin: 20px;
+	font-size: 20px;
+	color: blue; 
+}
+h4{
+	font-size: 20px;
+	color: blue; 
+	text-align: right;
+}
